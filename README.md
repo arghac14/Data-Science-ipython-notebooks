@@ -1,2 +1,2 @@
 # Data-Science-ipython-notebooks
-This repository contains all my practice work on numpy, pandas, matplotlib, seaborn etc python modules.
+This repository contains all my practice work on data analysis using varoius Python modules.
