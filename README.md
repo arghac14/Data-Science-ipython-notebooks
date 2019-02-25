@@ -3,5 +3,4 @@ This repository contains all my practice work on data analysis using varoius Pyt
 
 #### Numpy: [Covered]
 #### Pandas: [Covered]
-#### Matplotlib:
-#### Seaborn:
+#### Matplotlib: [Covered]
